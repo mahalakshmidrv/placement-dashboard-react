@@ -1,0 +1,20 @@
+{
+  "overview": { "eligibleStudents": 420, "placed": 287, "companies": 46, "highestCtc": 18, "averageCtc": 5.8 },
+  "trends": [
+    {"month":"Jul","placed":14,"offers":19},
+    {"month":"Aug","placed":32,"offers":41},
+    {"month":"Sep","placed":58,"offers":72},
+    {"month":"Oct","placed":71,"offers":88},
+    {"month":"Nov","placed":49,"offers":60},
+    {"month":"Dec","placed":38,"offers":45},
+    {"month":"Jan","placed":25,"offers":29}
+  ],
+  "companies": [
+    {"company":"TCS","placed":52},
+    {"company":"Infosys","placed":44},
+    {"company":"Cognizant","placed":36},
+    {"company":"Wipro","placed":31},
+    {"company":"Zoho","placed":14},
+    {"company":"Freshworks","placed":6}
+  ]
+}

@@ -1,0 +1,8 @@
+[
+  {"id":"n1","type":"interview","title":"Zoho interview in 2 days","message":"Technical Round 1 is scheduled at 10:30 AM. Check the Interviews page for joining details.","hoursAgo":3,"read":false},
+  {"id":"n2","type":"announcement","title":"Resume freeze on Friday","message":"The placement cell will lock resumes at 5 PM on Friday. Update your profile before then.","hoursAgo":10,"read":false},
+  {"id":"n3","type":"company","title":"Infosys extended campus drive","message":"Infosys has opened 120 more positions for Systems Engineer. Apply before the deadline.","hoursAgo":26,"read":false},
+  {"id":"n4","type":"interview","title":"Cognizant interview scheduled","message":"HR + Technical round is set for the on-campus Placement Cell. Formal attire required.","hoursAgo":40,"read":true},
+  {"id":"n5","type":"company","title":"Razorpay pre-placement offers","message":"Interns converting to full-time roles will be announced after the six-month review.","hoursAgo":72,"read":true},
+  {"id":"n6","type":"announcement","title":"Mock interview week","message":"Book a slot with the career cell for a 30-minute mock interview with an alumnus.","hoursAgo":120,"read":true}
+]

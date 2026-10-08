@@ -1,0 +1,6 @@
+[
+  {"id":"i1","jobId":"j2","round":"Technical Round 1","daysFromNow":2,"time":"10:30 AM","mode":"Online","venue":"Zoho Meet (link sent by email)","instructions":"Keep your ID card ready. Expect data structures and a short coding problem."},
+  {"id":"i2","jobId":"j7","round":"HR + Technical","daysFromNow":5,"time":"02:00 PM","mode":"On-campus","venue":"Placement Cell, Block C, Room 204","instructions":"Formal attire. Carry two printed copies of your resume."},
+  {"id":"i3","jobId":"j4","round":"Final Interview","daysFromNow":-8,"time":"11:00 AM","mode":"Online","venue":"Microsoft Teams","instructions":"Completed. Offer letter issued."},
+  {"id":"i4","jobId":"j6","round":"Technical Round","daysFromNow":-12,"time":"09:30 AM","mode":"On-campus","venue":"Seminar Hall","instructions":"Completed."}
+]

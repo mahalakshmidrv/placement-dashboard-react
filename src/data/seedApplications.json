@@ -1,0 +1,8 @@
+[
+  {"id":"a1","jobId":"j2","status":"Interview Scheduled","appliedDaysAgo":9},
+  {"id":"a2","jobId":"j3","status":"Under Review","appliedDaysAgo":6},
+  {"id":"a3","jobId":"j4","status":"Selected","appliedDaysAgo":24},
+  {"id":"a4","jobId":"j6","status":"Rejected","appliedDaysAgo":20},
+  {"id":"a5","jobId":"j7","status":"Interview Scheduled","appliedDaysAgo":11},
+  {"id":"a6","jobId":"j11","status":"Applied","appliedDaysAgo":2}
+]
